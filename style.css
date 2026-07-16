@@ -3,3 +3,11 @@
 body {
     background-image: linear-gradient(to right, rgb(40, 111, 192), rgb(50, 187, 221))
 }
+
+footer {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    margin: auto;
+    text-align: center;
+    padding: 1px;
+}
